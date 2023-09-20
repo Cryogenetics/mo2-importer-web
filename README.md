@@ -20,7 +20,7 @@ can be found here https://importer.ghostin.me/
 3. Open Dev Tools and go to Application
    1. Go to Cookies under Storage
    2. copy the value of sid_develop
-![image](https://github.com/Cryogenetics/mo2-importer-web/assets/83240673/9ee67cf5-4953-449a-90c0-35f8395dd5a7)
+![image](https://github.com/Cryogenetics/mo2-importer-web/assets/83240673/008b6ada-a873-4bad-8ecc-0ec00ebe78fb)
 4. Paste this token into the tool.
    1. This token is passed into [this function] (https://github.com/Cryogenetics/mo2-importer-web/blob/main/functions/bypassCors/%5B%5Burl%5D%5D.js) if you'd like to see it's usage.
 5. Upload your CSV
