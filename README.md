@@ -22,7 +22,7 @@ can be found here https://importer.ghostin.me/
    2. copy the value of sid_develop
 ![image](https://github.com/Cryogenetics/mo2-importer-web/assets/83240673/008b6ada-a873-4bad-8ecc-0ec00ebe78fb)
 4. Paste this token into the tool.
-   1. This token is passed into [this function] (https://github.com/Cryogenetics/mo2-importer-web/blob/main/functions/bypassCors/%5B%5Burl%5D%5D.js) if you'd like to see it's usage.
+   1. This token is passed into [this function](https://github.com/Cryogenetics/mo2-importer-web/blob/main/functions/bypassCors/%5B%5Burl%5D%5D.js) if you'd like to see it's usage.
 5. Upload your CSV
 6. Scroll through the mods and select which versions and ones you want
    1. WARNING: I would recommend selecting 1 first, so you can get the popup that asks if you'll allow it to open downloads in MO2.
