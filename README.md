@@ -36,4 +36,5 @@ can be found here https://importer.ghostin.me/
   forced for downloads to even work)
 - [ ] Program qol logic
     - [ ] Automatically check file if there is only 1 cat (excluding old files) and only 1 file
+    - [ ] Add button to prompt user to allow page to open all nxm:// links in mo2 before clicking start
 - [ ] rewrite a lot of the dom parsing into CF functions (switched to cf pages last minute)
