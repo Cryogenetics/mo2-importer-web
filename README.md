@@ -32,6 +32,7 @@ can be found here https://importer.ghostin.me/
 # TODO:
 
 - [x] Make decent UI
+- [ ] fix upload button to not look dumb
 - [x] Create a way for users to supply token to download adult mods and skip 5-second timer on the download (ended up being
   forced for downloads to even work)
 - [ ] Program qol logic
