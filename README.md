@@ -5,6 +5,8 @@ This is a simple tool to import mods into Mod Organizer 2.
 I created this with the intention of providing a service to whoever needs something like this, as this allows quick and simple sharing of
 mods just by exporting the mod list as a CSV (needs to contain the mod name and URL)
 
+(definitely not because a YouTuber had a link to their export CSV and I was too lazy to go find all the mods and made mo2-import which i then decided to also make into a website for simplicity for users)
+
 # Warnings 
 1. I am not responsible for any damages through the use of this tool.
 2. this program opens tabs in order to start downloads, meaning, a bunch of tabs can and will be opened (hopefully in the background as mo2 should handle the downloads)
